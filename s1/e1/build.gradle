@@ -1,5 +1,5 @@
 task hello {
-    doLast {
-        println 'Hello World'
-    }
+  doLast {
+    println 'Hello World'
+  }
 }
